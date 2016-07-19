@@ -9,19 +9,19 @@ describe 'BallotBox' do
 
   it 'should receive the name of the candidate' do
     ballotBox = BallotBox.new
-    expect(ballotBox.vote('person')).to eq('receive person')
+    expect(ballotBox.vote('voter','person')).to eq('receive person')
   end
   it 'should send file to collator' do
     ballotBox = BallotBox.new
-    ballotBox.vote ('person')
-    ballotBox.vote ('hamster')
+    ballotBox.vote('voter','person')
+    ballotBox.vote('voter2','hamster')
     server_response = ballotBox.sendfile
     expect(server_response).to eq('vote file received : 200')
   end
   it 'should create a json' do
     ballotBox = BallotBox.new
-    ballotBox.vote('person')
-    expect(ballotBox.createJson).to eq({"vote_list"=>["person"]})
+    ballotBox.vote('voter3','person')
+    expect(ballotBox.createJson).to eq({"vote_list"=>["voter3:person"]})
   end
 
 end

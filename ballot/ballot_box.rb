@@ -7,10 +7,10 @@ class BallotBox
     File.new "candidate_result.txt"
   end
 
-  def vote(candidate)
+  def vote(voter,candidate)
     #File.write('candidate_result.txt', "#{candidate}")
     open('candidate_result.txt', 'a') { |f|
-      f.puts candidate
+      f.puts "#{voter}:#{candidate}"
     }
     return "receive #{candidate}"
   end
@@ -34,4 +34,14 @@ class BallotBox
   end
 
 
+end
+
+if __FILE__ == $0
+  ballotBox = BallotBox.new
+  puts 'Enter your name'
+  name = gets.chomp
+  puts 'Enter candidate name'
+  candidate = gets.chomp
+  ballotBox.vote(name,candidate)
+  puts ballotBox.sendfile
 end
