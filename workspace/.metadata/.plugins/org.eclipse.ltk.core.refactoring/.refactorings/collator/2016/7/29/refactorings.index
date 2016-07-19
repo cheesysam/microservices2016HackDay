@@ -1,3 +1,6 @@
 1468922598344	Rename package 'com.mycompany.app'
 1468923038056	Rename package 'com.mycompany.app'
 1468931794557	Rename local variable 'key'
+1468932274479	Move type 'Collator' to new file
+1468932309227	Move compilation unit
+1468932343003	Convert local variable 'collator' to field

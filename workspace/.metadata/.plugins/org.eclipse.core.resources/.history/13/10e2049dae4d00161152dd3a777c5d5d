@@ -9,25 +9,10 @@ import org.springframework.web.bind.annotation.*;
 @EnableAutoConfiguration
 public class MainClass {
 
-    private Collator collator;
-
-	@RequestMapping("/")
+    @RequestMapping("/")
     @ResponseBody
     String home() {
         return "Hello World! \n It's a beautiful day";
-    }
-    
-    @RequestMapping("/vote")
-    @ResponseBody
-    void collate() {
-    	collator.receive(null, null);
-    }
-    
-    @RequestMapping("/start")
-    @ResponseBody
-    void start() {
-    	collator = new Collator();
-  
     }
 
     public static void main(String[] args) throws Exception {

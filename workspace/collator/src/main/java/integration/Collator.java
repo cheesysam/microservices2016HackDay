@@ -1,0 +1,38 @@
+package integration;
+
+import java.util.HashMap;
+import java.util.Map.Entry;
+
+public class Collator{
+
+	private HashMap<String, String> listOfVotes = new HashMap<String, String>();
+
+	public int getNumberOfVotes() {
+		return listOfVotes.size();
+	}
+
+	public void receive(String voter, String candidate) {
+		listOfVotes.put(voter,candidate);
+	}
+
+	public HashMap<String, Integer> getResults() {
+		HashMap<String, Integer> countedResults = new HashMap<String, Integer>();
+		
+		int totalA = 0;
+		int totalB = 0;
+				
+		for(Entry<String, String> entry : listOfVotes.entrySet()) {
+		    String voter = entry.getKey();
+		    String candidate = listOfVotes.get(voter);
+		    if (!countedResults.keySet().contains(candidate)){
+		    	countedResults.put(candidate, new Integer(1));
+		    	continue;
+		    }
+		    Integer currentCount = countedResults.get(candidate);
+		    Integer newCount= new Integer(currentCount.intValue() + 1);
+		    countedResults.put(candidate, newCount);
+		}
+		return countedResults;
+	}
+	
+}

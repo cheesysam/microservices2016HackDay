@@ -20,7 +20,6 @@ public class MainClass {
     @RequestMapping("/vote")
     @ResponseBody
     void collate() {
-    	collator.receive(null, null);
     }
     
     @RequestMapping("/start")

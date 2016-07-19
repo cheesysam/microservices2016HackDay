@@ -1,9 +1,6 @@
 package coreTest;
 
 import org.junit.Test;
-
-import integration.Collator;
-
 import org.junit.Before;
 import org.junit.Ignore;
 import static org.junit.Assert.assertEquals;
