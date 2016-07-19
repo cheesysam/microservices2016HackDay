@@ -1,0 +1,42 @@
+package coreTest;
+
+import org.junit.Test;
+import org.junit.Ignore;
+import static org.junit.Assert.assertEquals;
+
+
+
+class Collator{
+
+	public int getNumberOfVotes() {
+		return 1;
+	}
+	
+	
+	
+}
+
+
+
+
+public class unitTest {
+
+	@Test
+	public void test1(){
+		assertEquals(1,1);
+	}
+	
+	@Ignore
+	@Test
+	public void shouldOutputOneResultWhenOneVoteReceived(){	}
+	
+	@Test
+	public void shouldReportOneVoteWhenOneVoteReceived(){
+		//Arrange
+		Collator collator = new Collator();
+		//Act
+		//Assert
+		assertEquals(1,collator.getNumberOfVotes());
+	}
+	
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="unitTest" project="collator" tests="2" started="2" failures="0" errors="0" ignored="1">
+  <testsuite name="coreTest.unitTest" time="0.002">
+    <testcase name="shouldOutputOneResultWhenOneVoteReceived" classname="coreTest.unitTest" time="0.0" ignored="true"/>
+    <testcase name="shouldReportOneVoteWhenOneVoteReceived" classname="coreTest.unitTest" time="0.002"/>
+  </testsuite>
+</testrun>

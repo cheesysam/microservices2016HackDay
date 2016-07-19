@@ -1,0 +1,58 @@
+package coreTest;
+
+import org.junit.Test;
+import org.junit.Ignore;
+import static org.junit.Assert.assertEquals;
+
+import java.util.ArrayList;
+
+
+
+class Collator{
+
+	private ArrayList<Vote> listOfVotes = new ArrayList<Vote>;
+
+	public int getNumberOfVotes() {
+		return 1;
+	}
+
+	public void receive(Vote vote) {
+		listOfVotes .add(vote);
+		
+	}
+	
+}
+
+class Vote{
+
+	private String voter;
+	private String candidate;
+
+	public Vote(String voter, String candidate) {
+		this.voter = voter;
+		this.candidate = candidate;
+	}
+	
+	
+}
+
+
+
+
+public class unitTest {
+
+	@Ignore
+	@Test
+	public void shouldOutputOneResultWhenOneVoteReceived(){	}
+	
+	@Test
+	public void shouldReportOneVoteWhenOneVoteReceived(){
+		//Arrange
+		Collator collator = new Collator();
+		//Act
+		collator.receive(new Vote("voter","candidate"));
+		//Assert
+		assertEquals(1,collator.getNumberOfVotes());
+	}
+	
+}
