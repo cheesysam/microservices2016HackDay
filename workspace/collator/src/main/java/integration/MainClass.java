@@ -17,6 +17,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class MainClass {
 
     private Collator collator;
+    JsonDecode decoder;
 
 	@RequestMapping("/")
     @ResponseBody
@@ -26,9 +27,8 @@ public class MainClass {
     
     @RequestMapping(method = RequestMethod.POST, value = "/vote")
     @ResponseBody
-    
     void collate(@RequestBody String body) {
-    	decoder = new JsonDecode();
+    	decoder = new JsonDecode(collator);
     	decoder.decode(body);
     }
     
