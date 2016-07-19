@@ -6,6 +6,7 @@ import java.util.Map.Entry;
 public class Collator{
 
 	private HashMap<String, String> listOfVotes = new HashMap<String, String>();
+	HashMap<String, Integer> countedResults = new HashMap<String, Integer>();
 
 	public int getNumberOfVotes() {
 		return listOfVotes.size();
@@ -16,11 +17,7 @@ public class Collator{
 	}
 
 	public HashMap<String, Integer> getResults() {
-		HashMap<String, Integer> countedResults = new HashMap<String, Integer>();
 		
-		int totalA = 0;
-		int totalB = 0;
-				
 		for(Entry<String, String> entry : listOfVotes.entrySet()) {
 		    String voter = entry.getKey();
 		    String candidate = listOfVotes.get(voter);
@@ -33,6 +30,5 @@ public class Collator{
 		    countedResults.put(candidate, newCount);
 		}
 		return countedResults;
-	}
-	
+	}	
 }

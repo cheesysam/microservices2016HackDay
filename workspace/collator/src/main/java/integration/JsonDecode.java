@@ -12,36 +12,23 @@ public class JsonDecode {
 	
 	public JsonDecode(Collator collator){
 		this.collator = collator;
-		
 	}
 	
 	public void decode(String stringJson){
+		System.err.println(stringJson);
 		JsonElement jelement = new JsonParser().parse(stringJson);
 		JsonObject jObject = (JsonObject) jelement;
 		JsonArray jarray = (JsonArray) jObject.get("vote_list");
+		
 		for(JsonElement vote:jarray){
 			
 			JsonObject oVote=(JsonObject) vote;
-			JsonArray array = oVote.getAsJsonArray();
 			
+			String voter = oVote.get("voter").toString();
+			String choice = oVote.get("choice").toString();
 			
-			JsonElement voter = array.get(0);
-			String stringVoter = voter.getAsString();
-			
-			JsonElement candidate = array.get(0);
-			String stringCandidate = candidate.getAsString();
-			
-			collator.receive(stringVoter, stringCandidate);
+			collator.receive(voter, choice);
 		}
-		
-		/*
-		 * {
-		 * 	"vote_list":[
-		 * 		{"voter1": "theirChoice"},
-		 *  	{"voter2": "theirChoice"},
-		 *   ]
-		 * }
-		 */
 	}
 	
 	

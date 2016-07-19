@@ -1,5 +1,7 @@
 package integration;
 
+import java.util.HashMap;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.ComponentScan;
@@ -28,7 +30,6 @@ public class MainClass {
     @RequestMapping(method = RequestMethod.POST, value = "/vote")
     @ResponseBody
     void collate(@RequestBody String body) {
-    	decoder = new JsonDecode(collator);
     	decoder.decode(body);
     }
     
@@ -36,10 +37,15 @@ public class MainClass {
     @ResponseBody
     void start() {
     	collator = new Collator();
-  
+    	decoder = new JsonDecode(collator);  
+    }
+    
+    @RequestMapping("/results")
+    @ResponseBody
+    String results() {
+    	return collator.getResults().toString();
     }
 
-    //@EnableAutoConfiguration
  
     public static void main(String[] args) throws Exception {
         SpringApplication.run(MainClass.class, args);
