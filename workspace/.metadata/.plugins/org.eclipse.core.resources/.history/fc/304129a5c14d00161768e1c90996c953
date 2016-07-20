@@ -1,0 +1,56 @@
+package integration;
+
+import com.google.gson.Gson;
+import com.google.gson.JsonArray;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParser;
+
+public class JsonDecode {
+	Gson gson = new Gson();
+	private Collator collator;
+	
+	public JsonDecode(Collator collator){
+		this.collator = collator;
+		
+	}
+	
+	public void decode(String stringJson){
+		System.err.println(stringJson);
+		JsonElement jelement = new JsonParser().parse(stringJson);
+		JsonObject jObject = (JsonObject) jelement;
+		JsonArray jarray = (JsonArray) jObject.get("vote_list");
+		System.out.println(jarray.toString());
+		System.out.println(jarray.getClass());
+		//System.out.println(jarray.getAsString());
+		//System.out.println(jarray);
+		for(JsonElement vote:jarray){
+			
+			JsonObject oVote=(JsonObject) vote;
+			//JsonArray array = vote.getAsJsonArray();
+			
+			String voter = oVote.get("voter").toString();
+			String choice = oVote.get("choice").toString();
+			
+//			JsonElement voter = array.get(0);
+//			String stringVoter = voter.getAsString();
+//			
+//			JsonElement candidate = array.get(0);
+//			String stringCandidate = candidate.getAsString();
+			
+			collator.receive(voter, choice);
+		}
+		
+		/*
+		 * {
+		 * 	"vote_list":[
+		 * 		{"voter":"voter1",
+		 * 		"choice": "theirChoice"},
+		 *  	{"voter2": "theirChoice"},
+		 *   ]
+		 * }
+		 */
+	}
+	
+	
+}

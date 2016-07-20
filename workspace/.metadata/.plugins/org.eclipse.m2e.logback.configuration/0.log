@@ -297,3 +297,236 @@
 2016-07-19 14:09:42,741 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
 2016-07-19 14:09:42,742 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-07-19 14:09:42,742 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 14:36:48,648 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 14:36:48,653 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 14:36:48,653 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 14:36:48,656 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 14:36:48,657 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 14:36:58,624 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 14:36:58,624 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 14:36:58,624 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 14:36:58,627 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 14:36:58,627 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 14:43:21,576 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 14:43:21,577 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 14:43:21,577 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 14:43:21,579 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 14:43:21,579 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 14:43:22,649 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 14:43:22,649 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 14:43:22,649 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 14:43:22,651 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 14:43:22,651 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 14:50:55,280 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 14:50:55,280 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 14:50:55,280 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 14:50:55,281 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 14:50:55,282 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 14:57:35,853 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 14:57:35,854 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 14:57:35,854 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 14:57:35,856 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 14:57:35,857 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 14:58:03,626 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.5.RELEASE/spring-core-4.2.5.RELEASE-sources.jar
+2016-07-19 14:58:04,130 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.5.RELEASE/spring-core-4.2.5.RELEASE-sources.jar
+2016-07-19 14:58:04,623 [Worker-25] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:4.2.5.RELEASE
+2016-07-19 14:58:04,880 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 14:58:04,880 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 14:58:04,880 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 14:58:04,883 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 14:58:04,883 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:03:01,559 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:03:01,559 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:03:01,559 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:03:01,566 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:03:01,566 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:03:20,780 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:03:20,781 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:03:20,781 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:03:20,783 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:03:20,783 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:03:29,661 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:03:29,662 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:03:29,662 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:03:29,663 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:03:29,664 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:08:32,762 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:08:32,763 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:08:32,763 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:08:32,765 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:08:32,766 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:21:10,480 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:21:10,480 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:21:10,480 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:21:10,483 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:21:10,483 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:21:19,579 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:21:19,580 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:21:19,580 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:21:19,581 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:21:19,582 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:22:48,895 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:22:48,895 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:22:48,895 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:22:48,898 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:22:48,898 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:22:53,729 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uk.os.skoolvote:collator:1.0-SNAPSHOT @ C:\Users\tbinks\microservices2016HackDay\workspace\collator\pom.xml.
+2016-07-19 15:22:54,589 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/1.7.1/gson-1.7.1.pom
+2016-07-19 15:22:54,613 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/1.7.1/gson-1.7.1.pom
+2016-07-19 15:22:54,725 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/1.7.1/gson-1.7.1.jar
+2016-07-19 15:22:54,853 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/1.7.1/gson-1.7.1.jar
+2016-07-19 15:22:55,859 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:22:55,859 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:22:55,860 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:22:55,865 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:22:55,866 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:22:59,009 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:22:59,010 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:22:59,010 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:22:59,012 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:22:59,013 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:27:02,061 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:27:02,061 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:27:02,061 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:27:02,063 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:27:02,065 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:27:03,118 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:27:03,118 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:27:03,118 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:27:03,120 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:27:03,121 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:27:21,463 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:27:21,463 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:27:21,463 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:27:21,465 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:27:21,465 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:28:47,426 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:28:47,427 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:28:47,427 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:28:47,429 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:28:47,429 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:32:49,123 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:32:49,123 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:32:49,123 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:32:49,125 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:32:49,126 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:33:00,468 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:33:00,468 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:33:00,468 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:33:00,470 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:33:00,471 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:35:48,501 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:35:48,501 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:35:48,502 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:35:48,503 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:35:48,503 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:36:41,743 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:36:41,743 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:36:41,743 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:36:41,745 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:36:41,746 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:37:06,000 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:37:06,001 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:37:06,001 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:37:06,003 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:37:06,003 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:37:08,999 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:37:08,999 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:37:08,999 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:37:09,001 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:37:09,001 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:38:06,789 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:38:06,789 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:38:06,789 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:38:06,791 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:38:06,792 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:38:31,134 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:38:31,134 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:38:31,134 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:38:31,136 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:38:31,136 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:46:59,339 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:46:59,339 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:46:59,339 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:46:59,340 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:46:59,340 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:48:28,367 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:48:28,367 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:48:28,368 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:48:28,370 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:48:28,370 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:49:34,188 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:49:34,188 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:49:34,189 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:49:34,191 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:49:34,191 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:50:15,090 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:50:15,091 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:50:15,091 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:50:15,092 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:50:15,093 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:54:53,441 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:54:53,441 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:54:53,441 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:54:53,442 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:54:53,443 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:57:44,665 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:57:44,665 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:57:44,666 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:57:44,667 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:57:44,667 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:58:51,413 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:58:51,413 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:58:51,413 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:58:51,414 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:58:51,415 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 15:59:05,012 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:59:05,016 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:59:05,016 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 15:59:05,018 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 15:59:05,023 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 16:00:47,242 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:00:47,242 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:00:47,243 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:00:47,245 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:00:47,245 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 16:01:17,808 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:01:17,808 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:01:17,808 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:01:17,809 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:01:17,810 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 16:01:22,310 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:01:22,311 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:01:22,311 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:01:22,313 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:01:22,313 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 16:01:32,432 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:01:32,433 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:01:32,433 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:01:32,434 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:01:32,434 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 16:01:35,803 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:01:35,803 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:01:35,803 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:01:35,805 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:01:35,805 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 16:02:59,546 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:02:59,547 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:02:59,547 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:02:59,549 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:02:59,549 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 16:03:37,450 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:03:37,450 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:03:37,451 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:03:37,453 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:03:37,453 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 16:03:45,891 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:03:45,891 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:03:45,892 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:03:45,893 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:03:45,894 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources
+2016-07-19 16:14:01,628 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:14:01,628 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:14:01,628 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\main\resources
+2016-07-19 16:14:01,629 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-19 16:14:01,630 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tbinks\microservices2016HackDay\workspace\collator\src\test\resources

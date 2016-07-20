@@ -1,0 +1,43 @@
+package integration;
+
+import org.springframework.boot.*;
+import org.springframework.boot.autoconfigure.*;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.stereotype.*;
+import org.springframework.web.bind.annotation.*;
+
+@Controller
+@Configuration
+@ComponentScan
+@EnableAutoConfiguration
+public class MainClass {
+
+    private Collator collator;
+
+	@RequestMapping("/")
+    @ResponseBody
+    String home() {
+        return "Hello World! \n It's a beautiful day";
+    }
+    
+    @RequestMapping("/vote")
+    @ResponseBody
+    String collate() {
+    	return "this is the vote page"
+    	//collator.receive(null, null);
+    }
+    
+    @RequestMapping("/start")
+    @ResponseBody
+    void start() {
+    	collator = new Collator();
+  
+    }
+
+    //@EnableAutoConfiguration
+ 
+    public static void main(String[] args) throws Exception {
+        SpringApplication.run(MainClass.class, args);
+    }
+}

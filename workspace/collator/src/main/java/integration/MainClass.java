@@ -30,6 +30,7 @@ public class MainClass {
     @RequestMapping(method = RequestMethod.POST, value = "/vote")
     @ResponseBody
     void collate(@RequestBody String body) {
+    	System.err.println("hit vote " + body);
     	decoder.decode(body);
     }
     
